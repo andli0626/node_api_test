@@ -1,0 +1,29 @@
+{
+  "name": "restful_api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.13.4",
+    "http": "0.0.0",
+    "jade": "~1.11.0",
+    "mongoose": "~4.6.1",
+    "morgan": "~1.7.0",
+    "request": "^2.87.0",
+    "serve-favicon": "~2.3.0"
+  },
+  "description": "签到APP服务端 博客：http://www.jianshu.com/p/feda0083161d",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/andli/sign_server.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
